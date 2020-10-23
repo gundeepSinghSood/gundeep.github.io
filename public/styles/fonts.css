@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'BalooDa-Regular';
+  src: url('/fonts/BalooDa2-Regular.tff');
+  src: url('../public/fonts/gilroy-light.ttf') format('truetype');
+  font-display: swap;
+}
